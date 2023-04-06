@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for INTERNSHIP Program on Full-Stack Development.
 - <!-- 💬 Ask me about ... -->
 - 📫Reach me: ---
--      My website : <a href="https://satyadalei.github.io/portfolio/">https://satyadalei.github.io/portfolio/</a>
+-      Email      : satyaprofessional99@gmail.com
+-      website    : https://satyadalei.github.io/portfolio
+-      LinkedIn   : https://www.linkedin.com/in/satyadalei/
+-      Twitter    : https://twitter.com/Satyana17786386
 -      
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <!--😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 

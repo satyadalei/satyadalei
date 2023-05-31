@@ -9,12 +9,12 @@ Email      : satyaprofessional99@gmail.com
 Twitter    : https://twitter.com/Satyana17786386  
 ===== My Skills =====  
 -----💻FrontEntd----       ------💻Backend----  
-➡️REACT.JS                ➡️NODE.JS  
+➡️REACT.JS &nbsp;&nbsp;                ➡️NODE.JS  
 ➡️HTML5                   ➡️EXPRESS.JS  
 ➡️CSS                     ➡️MongoDB  
 ➡️JAVASCRIPT              ➡️Experience with💻 GIT, GitHub, and Agile development.  
 ➡️BOOTSTRAP               ➡️🔐 User Authentication  
-                          ➡️RESTfull API(GET, POST, PUT, DELETE)   
+                           ➡️RESTfull API(GET, POST, PUT, DELETE)   
 =====🧑‍💻PROJECTS ======  
 1.✅ Expenses tracker    
 2.✅Simple and Compound Interest Calculator  

@@ -24,23 +24,12 @@ Twitter    : https://twitter.com/Satyana17786386
 ➡️RESTfull API(GET, POST, PUT, DELETE)  
   
 =====🧑‍💻PROJECTS ======  
-1.✅ Expenses tracker  
-      &ensp;&ensp;&ensp;&ensp;🎯(Main goal) - To track daily💰 expenses  
-      &ensp;&ensp;&ensp;&ensp;🧑‍💻(technology used) - MongoDB, Express.js, Node.js,🔐 User Authentication using Passport  
-      &ensp;&ensp;&ensp;&ensp;⌚(Time taken) - Completed within 20 days.  
-      &ensp;&ensp;&ensp;&ensp;🔗(Available) - On my GitHub repository.  
+1.✅ Expenses tracker    
 
 2.✅Simple and Compound Interest Calculator  
-    &ensp;&ensp;&ensp;&ensp;🎯 - To calculate simple and compound interest easily  
-    &ensp;&ensp;&ensp;&ensp;🧑‍💻 - Express.js, Node.js, HTML, CSS, JAVASCRIPT  
-    &ensp;&ensp;&ensp;&ensp;⌚ - Completed within 3 days.  
-    &ensp;&ensp;&ensp;&ensp;🔗 - On my GitHub repository.  
 
 2.✅Simple Text manipulator(textUtils)  
-    &ensp;&ensp;&ensp;&ensp;🎯 - To perform simple tasks on text - like capitalize, lowercase letters, remove extra spaces, count total characters and words  
-    &ensp;&ensp;&ensp;&ensp;🧑‍💻 - React.js, Node.js, HTML, CSS, JAVASCRIPT  
-    &ensp;&ensp;&ensp;&ensp;⌚ - Completed within 6 days.  
-    &ensp;&ensp;&ensp;&ensp;🔗 - On my GitHub repository.  
+   
 
 =====🎓CERTIFICATE ======  
 ➡️Fullstack Web Development Bootcamp (From Udemy).  

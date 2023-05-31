@@ -8,32 +8,20 @@ website    : https://satyadalei.github.io/portfolio
 Email      : satyaprofessional99@gmail.com  
 Twitter    : https://twitter.com/Satyana17786386  
 ===== My Skills =====  
------💻FrontEntd----  
-➡️REACT.JS  
-➡️HTML5  
-➡️CSS  
-➡️JAVASCRIPT  
-➡️BOOTSTRAP  
-  
-------💻Backend----  
-➡️NODE.JS  
-➡️EXPRESS.JS  
-➡️MongoDB  
-➡️Experience with💻 GIT, GitHub, and Agile development.  
-➡️🔐 User Authentication  
-➡️RESTfull API(GET, POST, PUT, DELETE)  
-  
+-----💻FrontEntd----       ------💻Backend----  
+➡️REACT.JS                ➡️NODE.JS  
+➡️HTML5                   ➡️EXPRESS.JS  
+➡️CSS                     ➡️MongoDB  
+➡️JAVASCRIPT              ➡️Experience with💻 GIT, GitHub, and Agile development.  
+➡️BOOTSTRAP               ➡️🔐 User Authentication  
+                          ➡️RESTfull API(GET, POST, PUT, DELETE)   
 =====🧑‍💻PROJECTS ======  
 1.✅ Expenses tracker    
-
 2.✅Simple and Compound Interest Calculator  
-
-2.✅Simple Text manipulator(textUtils)  
-   
+2.✅Simple Text manipulator(textUtils)
 
 =====🎓CERTIFICATE ======  
 ➡️Fullstack Web Development Bootcamp (From Udemy).  
-  
 =====📙EDUCATION ======  
 ➡️Master in Computer Application      
 

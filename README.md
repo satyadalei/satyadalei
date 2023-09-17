@@ -11,9 +11,9 @@ I'm a full stack developer...
 
 **Frontend:** 
 
-- **HTML, CSS, Javascript, Bootstrap**
+- **HTML, CSS, Javascript, Bootstrap**                    - **React.js, Next.js:** 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)                  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,)](https://skillicons.dev)
 
 - **React.js, Next.js:** 
 

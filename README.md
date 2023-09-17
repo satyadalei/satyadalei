@@ -1,7 +1,7 @@
 ## 🚀 About Me
 👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+
 
 
 
@@ -23,3 +23,5 @@
 - **Node.Js, Express.Js, MongoDB, Firebase**
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongo,firebase)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)  

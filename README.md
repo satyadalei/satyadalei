@@ -23,6 +23,6 @@ I'm a full stack developer...
 
 **Backend:** 
 
-- **Node, Express, MongoDB, Firebase**
+- **Node.Js, Express.Js, MongoDB, Firebase**
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongo,firebase)](https://skillicons.dev)

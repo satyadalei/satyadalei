@@ -1,8 +1,5 @@
-👋 Full-Stack Dev 🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Open-source contributor 🌐 | Forever coding, learning, building 📚👨‍💻
-
-
 ## 🚀 About Me
-I'm a full stack developer...
+👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
 

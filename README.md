@@ -1,5 +1,6 @@
 ## 🚀 Hi! This is Satyanarayan
 👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyadalei/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Satyana17786386)
 [![Portfolio](https://img.shields.io/badge/Portfolio-red?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/)

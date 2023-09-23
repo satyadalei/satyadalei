@@ -1,8 +1,9 @@
 ## 🚀 About Me
 👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
 
+## 📊 GitHub Stats
 
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyadalei&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 
 ## Tech Stack

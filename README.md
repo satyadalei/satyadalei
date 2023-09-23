@@ -4,8 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyadalei/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Satyana17786386)
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/)
-[![Curriculumvitae](https://img.shields.io/badge/cv-black?style=flat&logo=📄)]([https://satyadalei.github.io/portfolio/](https://satyadalei.github.io/portfolio/contents/Satya_common_CV.pdf))
-
+[![Portfolio](https://img.shields.io/badge/CV-black?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/contents/Satya_common_CV.pdf)
 
 ## Top languages
 ![Your Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyadalei&layout=compact&theme=radical)

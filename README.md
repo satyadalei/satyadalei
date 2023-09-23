@@ -1,5 +1,8 @@
 ## 🚀 Hi! This is Satyanarayan
 👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
+## Top languages
+![Your Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyadalei&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Stats
 

@@ -35,4 +35,4 @@
 
   [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)  
 
-![Profile views](https://komarev.com/ghpvc/?username=your-username&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=satyadalei&color=green)

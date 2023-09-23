@@ -13,14 +13,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/)
 [![Portfolio](https://img.shields.io/badge/CV-black?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/contents/Satya_common_CV.pdf)
 
-
-
 ## Tech Stack
-
 **Frontend:** 
-
 - **HTML, CSS, Javascript, Bootstrap, Material ui**
-
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)
 
 - **React.js, Next.js:** 

@@ -15,9 +15,9 @@
 
 ## Tech Stack
 - **HTML, CSS, Javascript, Bootstrap, Material ui, React.js, Next.js, Node.Js, Express.Js, MongoDB, Firebase**
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongo,firebase)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)  
 
-![See](https://komarev.com/ghpvc/?username=satyadalei&color=green)
+

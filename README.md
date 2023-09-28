@@ -13,13 +13,15 @@
 [![Portfolio](https://img.shields.io/badge/CV-black?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/contents/Satya_common_CV.pdf)
 
 ## Tech Stack
-- **HTML, CSS, Javascript, Bootstrap, Material ui, React.js, Next.js, Node.Js, Express.Js, MongoDB, Firebase,**
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongo,firebase)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)  
+- **HTML, CSS, Javascript, Bootstrap, Material ui, React.js, Next.js, Node.Js, Express.Js, MongoDB, Firebase,C,C++**
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongo,firebase)](https://skillicons.dev)[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,c,cpp)](https://skillicons.dev)  
 
 ## Currently Building projects on 
  - **Tailwindcss, TypeScript, ReactRedux**
+   
    [![My Skills](https://skillicons.dev/icons?i=tailwind,redux,typescript)]
 
 ## Learning now
  - **Linux, Java**
+   
    [![My Skills](https://skillicons.dev/icons?i=linux,java)]

@@ -14,24 +14,10 @@
 [![Portfolio](https://img.shields.io/badge/CV-black?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/contents/Satya_common_CV.pdf)
 
 ## Tech Stack
-
-**Frontend:** 
-
-- **HTML, CSS, Javascript, Bootstrap, Material ui**
-  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)
-
-- **React.js, Next.js:** 
-
-   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,)](https://skillicons.dev)
-
-
-**Backend:** 
-
-- **Node.Js, Express.Js, MongoDB, Firebase**
-
+- **HTML, CSS, Javascript, Bootstrap, Material ui, React.js, Next.js, Node.Js, Express.Js, MongoDB, Firebase**
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=react,nextjs,)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongo,firebase)](https://skillicons.dev)
-
   [![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)  
 
 ![See](https://komarev.com/ghpvc/?username=satyadalei&color=green)

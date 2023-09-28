@@ -1,6 +1,6 @@
 ## 🚀 Hi! This is Satyanarayan
 👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
-## Top languages                                                                             📊 GitHub Stats
+## Top languages & 📊 GitHub Stats
 ![Your Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyadalei&layout=compact&theme=radical) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyadalei&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Blogs 
@@ -24,5 +24,4 @@
 ## Learning now
  - **Linux, Java**
 
-
-   [![My Skills](https://skillicons.dev/icons?i=linux,java)]
+   ![My Skills](https://skillicons.dev/icons?i=linux,java)

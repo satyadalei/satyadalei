@@ -1,9 +1,8 @@
 ## 🚀 Hi! This is Satyanarayan
 👋 I'm a full stack developer🛠️ | Working on MERN techs for 1+ year | Hackathon enthusiast 🚀 | Love to contribute Open-source contribution 🌐 | Forever coding, learning, building 📚👨‍💻
-## Top languages
-![Your Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyadalei&layout=compact&theme=radical)
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyadalei&show_icons=true&count_private=true&hide=prs&theme=radical)
+## Top languages                                                                             ## 📊 GitHub Stats
+![Your Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyadalei&layout=compact&theme=radical)                                                                                                                                                    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyadalei&show_icons=true&count_private=true&hide=prs&theme=radical)
+
 ## Blogs 
 [How I Get Started with Full-Stack Projects: A Three-Step Approach for Building Web Applications I follow!](https://medium.com/@satyanarayandalei65/how-i-get-started-with-full-stack-projects-a-three-step-approach-for-building-web-applications-i-37411063285c)
 

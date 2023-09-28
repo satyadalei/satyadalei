@@ -19,7 +19,7 @@
 ## Currently Building projects on 
  - **Tailwindcss, TypeScript, ReactRedux**
    
-   [![My Skills](https://skillicons.dev/icons?i=tailwind,redux,typescript)]
+   ![My Skills](https://skillicons.dev/icons?i=tailwind,redux,typescript)
 
 ## Learning now
  - **Linux, Java**

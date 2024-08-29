@@ -9,14 +9,6 @@
 ## Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyadalei/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/Satyana17786386)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/)
-[![Portfolio](https://img.shields.io/badge/CV-black?style=flat&logo=google-chrome)](https://satyadalei.github.io/portfolio/contents/Satya_common_CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?style=flat&logo=google-chrome)](https://satyadalei.vercel.app)
+[![Portfolio](https://img.shields.io/badge/CV-black?style=flat&logo=google-chrome)](https://drive.google.com/file/d/1ogUTD5iRUztB9hhtPRMUhbYmtUN67z7G/view)
 
-## Tech Stack
-- **HTML, CSS, Javascript, Bootstrap, Material ui, React.js, Next.js, Node.Js, Express.Js, MongoDB, Firebase,C,C++**
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,materialui,nodejs,expressjs,mongo,firebase,git,github,figma,vscode,c,cpp)](https://skillicons.dev)
-
-## Currently learning  
- - **Tailwindcss, TypeScript, ReactRedux, Linux, Java**
-   
-   ![My Skills](https://skillicons.dev/icons?i=tailwind,typescript,redux,linux,java)
